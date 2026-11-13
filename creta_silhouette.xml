@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="110dp"
+    android:viewportWidth="320"
+    android:viewportHeight="110">
+
+    <path
+        android:fillColor="#1A00D2FF"
+        android:pathData="M20,92 L300,92 L285,102 L35,102 Z" />
+
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#475569"
+        android:strokeWidth="1.5"
+        android:pathData="M28,74 L32,54 L58,48 L98,26 L218,26 L262,48 L288,54 L292,74 L274,78 L258,78 A20,20 0 0,0 218,78 L102,78 A20,20 0 0,0 62,78 L42,78 Z" />
+
+    <path
+        android:fillColor="#0B1220"
+        android:pathData="M104,31 L212,31 L248,48 L72,48 Z" />
+
+    <path
+        android:strokeColor="#00D2FF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M31,55 L56,55 M266,55 L290,55" />
+
+    <circle android:cx="82" android:cy="78" android:r="17" android:fillColor="#090D16" android:strokeColor="#94A3B8" android:strokeWidth="2.5" />
+    <circle android:cx="82" android:cy="78" android:r="7" android:fillColor="#334155" />
+    <circle android:cx="238" android:cy="78" android:r="17" android:fillColor="#090D16" android:strokeColor="#94A3B8" android:strokeWidth="2.5" />
+    <circle android:cx="238" android:cy="78" android:r="7" android:fillColor="#334155" />
+</vector>
